@@ -37,6 +37,6 @@ This Streamlit Page provides a simple web interface to interact with the trained
 
 App Over Views
 <img src="Screenshot 2025-09-17 at 12.12.55.png">
-<img src="">
-<img src="">
-<img src="">
+<img src="Screenshot 2025-09-17 at 12.12.14.png">
+<img src="Screenshot 2025-09-17 at 12.11.56.png">
+<img src="Screenshot 2025-09-17 at 12.11.41.png">
