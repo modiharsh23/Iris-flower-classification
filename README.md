@@ -34,4 +34,9 @@ This Streamlit Page provides a simple web interface to interact with the trained
     ```bash
     streamlit run app.py
     ```
-    
+
+App Over Views
+<img a=''>
+<img a=''>
+<img a=''>
+<img a=''>
