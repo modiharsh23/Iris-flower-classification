@@ -36,7 +36,7 @@ This Streamlit Page provides a simple web interface to interact with the trained
     ```
 
 App Over Views
-<img src="https://github.com/modiharsh23/Iris-flower-classification/blob/main/README.md?plain=1#:~:text=Screenshot%202025%2D09%2D-,17,-at%2012.12.55.png">
+<img src="Screenshot 2025-09-17 at 12.12.55.png">
 <img src="">
 <img src="">
 <img src="">
